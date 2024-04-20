@@ -123,5 +123,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhibin Zhou is a Graduate Student Researcher at the University of California, Irvine. His research interests include Cognitive neurosciences, EEG methodologies in Cognitive functions, Brain connectivity, Consciousness, Perception under Anesthesia and Sleep, Pain and analgesia, Brain stimulation, and Neurocritical care monitoring.
+
 {style="text-align: justify;"}
