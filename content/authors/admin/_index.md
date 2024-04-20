@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 智 斌 周
+title: 智斌 周
 
 # Name pronunciation (optional)
 name_pronunciation: Chi  Ben   Chou
