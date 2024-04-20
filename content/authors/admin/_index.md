@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 智斌 周
+title: 智 斌 周
 
 # Name pronunciation (optional)
-name_pronunciation: Chiben  Chou
+name_pronunciation: Chi  Ben   Chou
 
 # Full name (for SEO)
 first_name: Zhibin
