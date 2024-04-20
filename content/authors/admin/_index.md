@@ -3,7 +3,7 @@
 title: 智斌 周
 
 # Name pronunciation (optional)
-name_pronunciation: Chiben Chou
+name_pronunciation: Chiben  Chou
 
 # Full name (for SEO)
 first_name: Zhibin
