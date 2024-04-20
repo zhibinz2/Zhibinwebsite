@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Zhibin Zhou 周智斌
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chiben Chou
 
 # Full name (for SEO)
 first_name: Shiung Wu
