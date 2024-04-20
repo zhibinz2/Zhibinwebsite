@@ -123,6 +123,6 @@ social:
 highlight_name: true
 ---
 
-Zhibin Zhou is a Graduate Student Researcher at the University of California, Irvine. His research interests include Cognitive neurosciences, EEG methodologies in Cognitive functions, Brain connectivity, Consciousness, Perception under Anesthesia and Sleep, Pain and analgesia, Brain stimulation, and Neurocritical care monitoring.
+Zhibin Zhou (Chiben Adam Chou) is a Graduate Student Researcher at the University of California, Irvine. His research interests include Cognitive neurosciences, EEG methodologies in Cognitive functions, Brain connectivity, Consciousness, Perception under Anesthesia and Sleep, Pain and analgesia, Brain stimulation, and Neurocritical care monitoring.
 
 {style="text-align: justify;"}
