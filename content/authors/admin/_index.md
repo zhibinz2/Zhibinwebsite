@@ -69,6 +69,16 @@ skills:
         percent: 80
         icon: github
         icon_pack: fas
+        - name: Linux
+        description: ''
+        percent: 80
+        icon: linux
+        icon_pack: fas
+        - name: Singal processing
+        description: ''
+        percent: 80
+        icon: wave-square-solid
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
