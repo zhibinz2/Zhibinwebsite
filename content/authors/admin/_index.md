@@ -71,7 +71,7 @@ skills:
         icon_pack: fas
         - name: MatLab
         description: ''
-        percent: 40
+        percent: 90
         icon: matlab
         icon_pack: fas
   - name: Hobbies
