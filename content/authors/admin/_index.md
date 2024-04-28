@@ -59,21 +59,11 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science, Biomedical Singal Processing
+      - name: Biomedical Singal Processing
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: Github
-        description: ''
-        percent: 80
-        icon: github
-        icon_pack: ''
-        - name: Linux
-        description: ''
-        percent: 80
-        icon: linux
-        icon_pack: ''
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
