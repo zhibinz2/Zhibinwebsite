@@ -64,10 +64,15 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Github
+        description: ''
+        percent: 80
+        icon: github
+        icon_pack: fas
+        - name: MatLab
         description: ''
         percent: 40
-        icon: database
+        icon: matlab
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
