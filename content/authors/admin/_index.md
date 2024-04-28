@@ -64,20 +64,10 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: Github
-        description: ''
-        percent: 80
-        icon: github
-        icon_pack: fas
         - name: Linux
         description: ''
         percent: 80
         icon: linux
-        icon_pack: fas
-        - name: Singal processing
-        description: ''
-        percent: 80
-        icon: wave-square-solid
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
