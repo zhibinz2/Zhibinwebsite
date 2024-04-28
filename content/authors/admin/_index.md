@@ -59,7 +59,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Data Science, Biomedical Singal Processing
         description: ''
         percent: 100
         icon: chart-line
