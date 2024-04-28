@@ -67,7 +67,7 @@ skills:
       - name: Github
         description: ''
         percent: 80
-        icon: ![image](https://github.com/zhibinz2/Zhibinwebsite/assets/56317282/33b15530-55a2-47a9-b5bc-16d1e343f48f)
+        icon: github
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
