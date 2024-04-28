@@ -69,11 +69,6 @@ skills:
         percent: 80
         icon: github
         icon_pack: fas
-        - name: MatLab
-        description: ''
-        percent: 90
-        icon: matlab
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
