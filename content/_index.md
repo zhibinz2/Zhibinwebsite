@@ -127,24 +127,36 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.citiprogram.org/verify/?w574f4226-0d13-47ba-9df5-ba1cad8f99c2-42627373
+          date_end: '2026-05-31'
+          date_start: '2021-05-01'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: "custom/citi"
+          icon-pack: custom
+          organization: CITI Program
+          organization_url: https://www.citiprogram.org/verify/?w574f4226-0d13-47ba-9df5-ba1cad8f99c2-42627373
+          title: Biomedical Investigators
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
+          date_end: ''
+          date_start: '2026-05-31'
+          description: '2021-05-01'
+          icon: "custom/citi"
+          icon-pack: custom
+          organization: CITI Program
+          organization_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
+          title: Research and HIPAA Privacy Protections
+          url: ''
+        - certificate_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
+          description: M.D. and M.S. U.S. equivalent
+          icon: "custom/wes_1"
+          icon-pack: custom
+          organization: World Education Services
+          organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
