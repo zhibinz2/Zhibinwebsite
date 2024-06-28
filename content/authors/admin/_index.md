@@ -62,8 +62,8 @@ skills:
       - name: Biomedical Singal Processing
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: "custom/heart-pulse-solid"
+        icon_pack: "custom"
       - name: Matlab
         description: ''
         percent: 100
@@ -84,7 +84,7 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -98,16 +98,30 @@ skills:
         icon: camera-retro
         icon_pack: fas
       - name: Dogs
+        percent: 100
         description: ''
         icon: dog
         icon_pack: fas
       - name: Paddle boarding
         description: ''
-        icon: kitesurfing
-        icon_pack: mdi
+        percent: 100
+        icon: "sailboat-solid"
+        icon_pack: custom
       - name: Neuromonitoring device
+        percent: 100
         description: ''
         icon: brain
+        icon_pack: fas
+      - name: Museum
+        percent: 100
+        description: ''
+        icon: "custom/landmark-solid"
+        icon-pack: custom
+      - name: Swimming
+        percent: 100
+        description: ''
+        icon: "custom/person-swimming-solid"
+        icon-pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
