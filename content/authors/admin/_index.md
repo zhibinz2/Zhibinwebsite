@@ -124,7 +124,7 @@ skills:
       - name: Paddle boarding
         description: ''
         percent: 100
-        icon: water
+        icon: fish-fins
         icon_pack: fab
 
 # Social/Academic Networking
