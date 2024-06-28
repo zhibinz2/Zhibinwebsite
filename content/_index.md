@@ -152,15 +152,15 @@ sections:
           organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
           title: M.D. and M.S. U.S. equivalent
           url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-        # - certificate_url: https://www.datacamp.com
-        #   date_end: '2020-12-21'
-        #   date_start: '2020-07-01'
-        #   description: ''
-        #   icon: datacamp
-        #   organization: DataCamp
-        #   organization_url: https://www.datacamp.com
-        #   title: 'Object-Oriented Programming in R'
-        #   url: ''
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          icon: citi
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
     design:
       columns: '2'
   - block: collection
