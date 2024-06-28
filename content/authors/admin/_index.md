@@ -115,8 +115,8 @@ skills:
       - name: Swimming
         percent: 100
         description: ''
-        icon: "custom/person-swimming-solid"
-        icon-pack: custom
+        icon: person-swimming
+        icon-pack: fab
       - name: Paddle boarding
         description: ''
         percent: 100
