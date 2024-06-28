@@ -69,6 +69,12 @@ skills:
         percent: 100
         icon: mdi
         icon_pack: fab
+      - name: Linux
+        percent: 90
+        icon: custom/linux
+      - name: GitHub
+        percent: 90
+        icon: custom/github
 
   - name: Hobbies
     color: '#eeac02'
