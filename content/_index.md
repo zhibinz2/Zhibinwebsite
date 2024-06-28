@@ -66,7 +66,7 @@ sections:
           company: University of California, Irvine
           company_url: ''
           company_logo: The_University_of_California_Irvine
-          location: California
+          location: California, U.S.
           date_start: '2019-10-01'
           date_end: ''
           description: |2-
@@ -75,11 +75,43 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Journeyman Researcher
+          company: Army Research Lab
+          company_url: ''
+          company_logo: arl
+          location: California, U.S.
+          date_start: '2022-10-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Expat worker anesthesiology
+          company: Doctors without border
+          company_url: ''
+          company_logo: msf
+          location: Hongkong, SAR. China
+          date_start: '2019-10-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * in the pool
         - title: Professor of Semiconductor Physics
           company: Sun Yat-Sen University
           company_url: ''
           company_logo: SYSU
-          location: California
+          location: Guangzhou, China
+          date_start: '2011-07-13'
+          date_end: '2019-8-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Professor of Semiconductor Physics
+          company: Fujian Medical University
+          company_url: ''
+          company_logo: fmu
+          location: Fuzhou, China
           date_start: '2011-07-13'
           date_end: '2019-8-31'
           description: Taught electronic engineering and researched semiconductor physics.
