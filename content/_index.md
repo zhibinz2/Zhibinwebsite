@@ -127,7 +127,7 @@ sections:
           date_start: '2021-05-01'
           description: ''
           icon: certificate
-          icon_pack: fas
+          # icon_pack: fas
           organization: CITI Program
           organization_url: https://www.citiprogram.org/verify/?w574f4226-0d13-47ba-9df5-ba1cad8f99c2-42627373
           title: Biomedical Investigators
