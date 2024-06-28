@@ -76,7 +76,7 @@ skills:
         description: ''
         percent: 100
         icon: laptop-code
-        icon_pack: fab
+        icon_pack: fas
 
   - name: Hobbies
     color: '#eeac02'
@@ -125,7 +125,7 @@ skills:
         description: ''
         percent: 100
         icon: fish-fins
-        icon_pack: fab
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
