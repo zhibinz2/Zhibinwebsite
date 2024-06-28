@@ -98,7 +98,7 @@ sections:
           location: Guangzhou, China
           date_start: '2011-07-13'
           date_end: '2019-08-31'
-          description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
+          description: Complete residency and serve as a teaching facultiy 
         - title: Medical student
           company: Fujian Medical University
           company_url: ''
