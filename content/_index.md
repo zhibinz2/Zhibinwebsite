@@ -126,8 +126,8 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-01'
           description: ''
-          icon: "custom/citi"
-          icon_pack: "custom"
+          icon: certificate
+          icon_pack: fab
           organization: CITI Program
           organization_url: https://www.citiprogram.org/verify/?w574f4226-0d13-47ba-9df5-ba1cad8f99c2-42627373
           title: Biomedical Investigators
