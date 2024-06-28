@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teaching Assitance & Graduate Student Researcher
+        - title: Teaching Assitant & Graduate Student Researcher
           company: University of California, Irvine
           company_url: ''
           company_logo: The_University_of_California_Irvine
