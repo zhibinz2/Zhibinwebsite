@@ -64,11 +64,6 @@ skills:
         percent: 100
         icon: "custom/heart-pulse-solid"
         icon_pack: "custom"
-      - name: Matlab
-        description: ''
-        percent: 100
-        icon: <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-        icon_pack: devicon
       - name: Linux
         percent: 90
         icon: "custom/linux"
@@ -77,6 +72,11 @@ skills:
         percent: 90
         icon: "custom/github"
         icon_pack: custom
+      - name: Matlab
+        description: ''
+        percent: 100
+        icon: <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+        icon_pack: devicon
 
   - name: Hobbies
     color: '#eeac02'
@@ -102,11 +102,6 @@ skills:
         description: ''
         icon: dog
         icon_pack: fas
-      - name: Paddle boarding
-        description: ''
-        percent: 100
-        icon: "sailboat-solid"
-        icon_pack: custom
       - name: Neuromonitoring device
         percent: 100
         description: ''
@@ -122,7 +117,12 @@ skills:
         description: ''
         icon: "custom/person-swimming-solid"
         icon-pack: custom
-
+      - name: Paddle boarding
+        description: ''
+        percent: 100
+        icon: "sailboat-solid"
+        icon_pack: custom
+        
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
