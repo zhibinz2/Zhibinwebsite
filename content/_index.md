@@ -76,12 +76,12 @@ sections:
               * Modelling
               * Deploying
         - title: Professor of Semiconductor Physics
-          company: University X
+          company: Sun Yat-Sen University
           company_url: ''
           company_logo: SYSU
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2011-07-13'
+          date_end: '2019-8-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
