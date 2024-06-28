@@ -67,7 +67,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: matrix
+        icon: mdi
         icon_pack: fab
 
   - name: Hobbies
@@ -96,7 +96,7 @@ skills:
       - name: Paddle boarding
         description: ''
         icon: kitesurfing
-        icon_pack: fas
+        icon_pack: mdi
       - name: Neuromonitoring device
         description: ''
         icon: brain
