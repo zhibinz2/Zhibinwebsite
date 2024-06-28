@@ -80,8 +80,8 @@ sections:
           company_url: ''
           company_logo: arl
           location: California, U.S.
-          date_start: '2022-10-01'
-          date_end: ''
+          date_start: '2022-03-01'
+          date_end: '2023-03-01'
           description: |2-
               Responsibilities include:
 
@@ -93,28 +93,28 @@ sections:
           company_url: ''
           company_logo: msf
           location: Hongkong, SAR. China
-          date_start: '2019-10-01'
-          date_end: ''
+          date_start: '2019-01-01'
+          date_end: '2023-12-31'
           description: |2-
               Responsibilities include:
 
               * in the pool
-        - title: Professor of Semiconductor Physics
+        - title: Faculty and Anesthesiologist
           company: Sun Yat-Sen University
           company_url: ''
           company_logo: SYSU
           location: Guangzhou, China
           date_start: '2011-07-13'
           date_end: '2019-8-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
+          description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
+        - title: Medical student
           company: Fujian Medical University
           company_url: ''
           company_logo: fmu
           location: Fuzhou, China
-          date_start: '2011-07-13'
-          date_end: '2019-8-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2006-09-01'
+          date_end: '2011-07-01'
+          description: M.D. program
     design:
       columns: '2'
   - block: accomplishments
