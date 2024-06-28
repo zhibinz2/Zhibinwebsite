@@ -86,7 +86,7 @@ sections:
         - title: Expat worker anesthesiologist
           company: Doctors without border
           company_url: ''
-          company_logo: msf
+          company_logo: sfm
           location: Hongkong, SAR. China
           date_start: '2019-01-01'
           date_end: '2023-12-31'
