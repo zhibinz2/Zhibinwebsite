@@ -110,8 +110,8 @@ skills:
       - name: Museum
         percent: 100
         description: ''
-        icon: "custom/landmark-solid"
-        icon-pack: custom
+        icon: building-columns
+        icon-pack: fab
       - name: Swimming
         percent: 100
         description: ''
@@ -122,7 +122,7 @@ skills:
         percent: 100
         icon: "sailboat-solid"
         icon_pack: custom
-        
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
