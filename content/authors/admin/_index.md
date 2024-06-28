@@ -96,7 +96,10 @@ skills:
       - name: Paddle boarding
         description: ''
         icon: kitesurfing
-        icon_pack
+        icon_pack: fas
+      - name: Neuromonitoring device
+        description: ''
+        icon: brain
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
