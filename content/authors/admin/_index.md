@@ -118,7 +118,7 @@ social:
     link: https://orcid.org/0000-0003-0953-831X
   - icon: weixin
     icon_pack: fab
-    label: Adamchou1986
+    link: https://zhibinz2.github.io/Zhibinwebsite/media/albums/weixin/Weixin_Image_20240627170000.png
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
