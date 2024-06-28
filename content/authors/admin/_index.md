@@ -117,6 +117,10 @@ skills:
         description: ''
         icon: person-swimming
         icon-pack: fab
+      - name: snorkeling
+        percent: 100
+        icon: otter
+        icon-pack: fab
       - name: Paddle boarding
         description: ''
         percent: 100
