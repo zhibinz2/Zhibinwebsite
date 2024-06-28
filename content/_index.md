@@ -97,7 +97,7 @@ sections:
           company_logo: SYSU
           location: Guangzhou, China
           date_start: '2011-07-13'
-          date_end: '2019-8-31'
+          date_end: '2019-08-31'
           description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
         - title: Medical student
           company: Fujian Medical University
@@ -152,15 +152,15 @@ sections:
           organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
           title: M.D. and M.S. U.S. equivalent
           url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
