@@ -145,12 +145,12 @@ sections:
         - certificate_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
           date_end: ''
           date_start: '2021-01-01'
-          description: M.D. and M.S. U.S. equivalent
+          description: ''
           icon: "custom/wes_1"
           icon_pack: custom
           organization: World Education Services
           organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-          title: Blockchain Fundamentals
+          title: M.D. and M.S. U.S. equivalent
           url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
