@@ -83,30 +83,30 @@ sections:
           date_start: '2022-03-01'
           date_end: '2023-03-01'
           description:  Deploying
-        - title: Expat worker anesthesiologist
-          company: Doctors without border
-          company_url: ''
-          company_logo: msf
-          location: Hongkong, SAR. China
-          date_start: '2019-01-01'
-          date_end: '2023-12-31'
-          description: Five years in the worker pool
-        - title: Faculty and Anesthesiologist
-          company: Sun Yat-Sen University
-          company_url: ''
-          company_logo: SYSU
-          location: Guangzhou, China
-          date_start: '2011-07-13'
-          date_end: '2019-8-31'
-          description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
-        - title: Medical student
-          company: Fujian Medical University
-          company_url: ''
-          company_logo: fmu
-          location: Fuzhou, China
-          date_start: '2006-09-01'
-          date_end: '2011-07-01'
-          description: Complete M.D. program and Internship rotation
+        # - title: Expat worker anesthesiologist
+        #   company: Doctors without border
+        #   company_url: ''
+        #   company_logo: msf
+        #   location: Hongkong, SAR. China
+        #   date_start: '2019-01-01'
+        #   date_end: '2023-12-31'
+        #   description: Five years in the worker pool
+        # - title: Faculty and Anesthesiologist
+        #   company: Sun Yat-Sen University
+        #   company_url: ''
+        #   company_logo: SYSU
+        #   location: Guangzhou, China
+        #   date_start: '2011-07-13'
+        #   date_end: '2019-8-31'
+        #   description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
+        # - title: Medical student
+        #   company: Fujian Medical University
+        #   company_url: ''
+        #   company_logo: fmu
+        #   location: Fuzhou, China
+        #   date_start: '2006-09-01'
+        #   date_end: '2011-07-01'
+        #   description: Complete M.D. program and Internship rotation
     design:
       columns: '2'
   - block: accomplishments
@@ -142,25 +142,25 @@ sections:
           organization_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
           title: Research and HIPAA Privacy Protections
           url: ''
-        - certificate_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-          date_end: ''
-          date_start: '2021-01-01'
-          description: M.D. and M.S. U.S. equivalent
-          icon: "custom/wes_1"
-          icon-pack: custom
-          organization: World Education Services
-          organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-          title: Blockchain Fundamentals
-          url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        # - certificate_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
+        #   date_end: ''
+        #   date_start: '2021-01-01'
+        #   description: M.D. and M.S. U.S. equivalent
+        #   icon: "custom/wes_1"
+        #   icon-pack: custom
+        #   organization: World Education Services
+        #   organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
+        #   title: Blockchain Fundamentals
+        #   url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
