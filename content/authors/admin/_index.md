@@ -67,7 +67,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: matlab
+        icon: <i class="devicon-threedsmax-plain"></i>
         icon_pack: devicon
       - name: Linux
         percent: 90
