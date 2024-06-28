@@ -75,8 +75,8 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-        icon_pack: devicon
+        icon: laptop-code
+        icon_pack: fab
 
   - name: Hobbies
     color: '#eeac02'
@@ -124,8 +124,8 @@ skills:
       - name: Paddle boarding
         description: ''
         percent: 100
-        icon: "sailboat-solid"
-        icon_pack: custom
+        icon: water
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
