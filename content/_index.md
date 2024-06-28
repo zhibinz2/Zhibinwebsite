@@ -65,7 +65,7 @@ sections:
         - title: Teaching Assitance & Graduate Student Researcher
           company: University of California, Irvine
           company_url: ''
-          company_logo: The_University_of_California_Irvine.svg
+          company_logo: The_University_of_California_Irvine
           location: California
           date_start: '2019-10-01'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
-          company_logo: org-x
+          company_logo: SYSU
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
