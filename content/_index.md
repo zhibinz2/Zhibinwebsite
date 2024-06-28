@@ -88,17 +88,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Expat worker anesthesiology
+        - title: Expat worker anesthesiologist
           company: Doctors without border
           company_url: ''
           company_logo: msf
           location: Hongkong, SAR. China
           date_start: '2019-01-01'
           date_end: '2023-12-31'
-          description: |2-
-              Responsibilities include:
-
-              * in the pool
+          description: Five years in the worker pool
         - title: Faculty and Anesthesiologist
           company: Sun Yat-Sen University
           company_url: ''
@@ -114,7 +111,7 @@ sections:
           location: Fuzhou, China
           date_start: '2006-09-01'
           date_end: '2011-07-01'
-          description: M.D. program
+          description: Complete M.D. program and Internship rotation
     design:
       columns: '2'
   - block: accomplishments
