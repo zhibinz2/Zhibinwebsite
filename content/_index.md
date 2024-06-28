@@ -91,22 +91,22 @@ sections:
           date_start: '2019-01-01'
           date_end: '2023-12-31'
           description: Five years in the worker pool
-        # - title: Faculty and Anesthesiologist
-        #   company: Sun Yat-Sen University
-        #   company_url: ''
-        #   company_logo: SYSU
-        #   location: Guangzhou, China
-        #   date_start: '2011-07-13'
-        #   date_end: '2019-8-31'
-        #   description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
-        # - title: Medical student
-        #   company: Fujian Medical University
-        #   company_url: ''
-        #   company_logo: fmu
-        #   location: Fuzhou, China
-        #   date_start: '2006-09-01'
-        #   date_end: '2011-07-01'
-        #   description: Complete M.D. program and Internship rotation
+        - title: Faculty and Anesthesiologist
+          company: Sun Yat-Sen University
+          company_url: ''
+          company_logo: SYSU
+          location: Guangzhou, China
+          date_start: '2011-07-13'
+          date_end: '2019-8-31'
+          description: Complete residency and serve as a teaching facultiy in the Department of Anesthesiology, FAH SYSU
+        - title: Medical student
+          company: Fujian Medical University
+          company_url: ''
+          company_logo: fmu
+          location: Fuzhou, China
+          date_start: '2006-09-01'
+          date_end: '2011-07-01'
+          description: Complete M.D. program and Internship rotation
     design:
       columns: '2'
   - block: accomplishments
