@@ -66,6 +66,8 @@ skills:
         icon_pack: fas
       - name: Matlab
         description: ''
+        percent: 100
+        icon: matrix
         icon_pack: fab
 
   - name: Hobbies
@@ -91,6 +93,10 @@ skills:
         description: ''
         icon: dog
         icon_pack: fas
+      - name: Paddle boarding
+        description: ''
+        icon: kitesurfing
+        icon_pack
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
