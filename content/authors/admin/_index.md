@@ -67,7 +67,7 @@ skills:
       - name: Matlab
         description: ''
         icon_pack: fab
-        
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -86,6 +86,10 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
+        icon_pack: fas
+      - name: Dogs
+        description: ''
+        icon: dog
         icon_pack: fas
 
 # Social/Academic Networking
