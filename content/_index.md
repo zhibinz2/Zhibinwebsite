@@ -82,12 +82,7 @@ sections:
           location: California, U.S.
           date_start: '2022-03-01'
           date_end: '2023-03-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description:  Deploying
         - title: Expat worker anesthesiologist
           company: Doctors without border
           company_url: ''
