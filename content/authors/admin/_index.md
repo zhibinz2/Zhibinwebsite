@@ -67,15 +67,16 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: mdi
+        icon: matlab
         icon_pack: devicon
       - name: Linux
         percent: 90
-        icon: linux
-        icon_pack: devicon
+        icon: "custom/linux"
+        icon_pack: custom
       - name: GitHub
         percent: 90
         icon: "custom/github"
+        icon_pack: custom
 
   - name: Hobbies
     color: '#eeac02'
