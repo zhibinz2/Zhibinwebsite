@@ -124,16 +124,16 @@ sections:
       items:
         - certificate_url: https://www.citiprogram.org/verify/?w574f4226-0d13-47ba-9df5-ba1cad8f99c2-42627373
           date_end: '2026-05-31'
-          date_start: '2021-05-01'
+          date_start: '2021-05-31'
           description: ''
-          icon: coursera
+          icon: citi
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
           url: ''
         - certificate_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
           date_end: '2026-05-31'
-          date_start: '2021-05-31'
+          date_start: '2021-05-01'
           description: ''
           icon: citi
           organization: CITI Program
@@ -144,7 +144,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: "custom/wes_1"
+          icon: wes
           organization: World Education Services
           organization_url: https://www.wes.org/
           title: M.D. and M.S. U.S. equivalent
