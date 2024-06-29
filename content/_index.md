@@ -126,7 +126,7 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-31'
           description: ''
-          icon: citi
+          icon: CITI-logo-square_tcm18-347567
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
@@ -135,7 +135,7 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-01'
           description: ''
-          icon: citi
+          icon: CITI-logo-square_tcm18-347567
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Research and HIPAA Privacy Protections
@@ -144,7 +144,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: wes
+          icon: wes_1
           organization: World Education Services
           organization_url: https://www.wes.org/
           title: M.D. and M.S. U.S. equivalent
