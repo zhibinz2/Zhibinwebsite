@@ -132,11 +132,10 @@ sections:
           title: Biomedical Investigators
           url: ''
         - certificate_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
-          date_end: ''
-          date_start: '2026-05-31'
-          description: '2021-05-01'
+          date_end: '2026-05-31'
+          date_start: '2021-05-31'
+          description: ''
           icon: stamp
-          icon_pack: fab
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Research and HIPAA Privacy Protections
@@ -145,8 +144,8 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: wes
-          # icon_pack: "custom"
+          icon: "custom/wes_1"
+          icon_pack: custom
           organization: World Education Services
           organization_url: https://www.wes.org/
           title: M.D. and M.S. U.S. equivalent
