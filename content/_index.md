@@ -126,7 +126,7 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-01'
           description: ''
-          icon: certificate
+          icon: twitter
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
