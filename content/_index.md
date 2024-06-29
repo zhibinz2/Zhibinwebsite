@@ -166,7 +166,7 @@ sections:
           description: ''
           icon: coursera
           organization: Coursera
-          organization_url: https://www.coursera.org
+          organization_url: https://docs.hugoblox.com/tutorial/blog/
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
