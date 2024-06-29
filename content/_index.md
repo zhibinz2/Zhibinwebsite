@@ -291,8 +291,7 @@ sections:
         country_code: US
       directions: Enter Building from the south on Floor 1
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday-Friday 8:00 to 17:00 PST'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '33.6473745234859'
