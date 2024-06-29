@@ -144,7 +144,7 @@ sections:
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: wes_1
+          icon: wes.org
           organization: World Education Services
           organization_url: https://www.wes.org/
           title: M.D. and M.S. U.S. equivalent
