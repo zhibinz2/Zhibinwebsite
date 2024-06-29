@@ -126,30 +126,30 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-01'
           description: ''
-          icon: certificate
+          icon: citi
           # icon_pack: fas
           organization: CITI Program
-          organization_url: https://www.citiprogram.org/verify/?w574f4226-0d13-47ba-9df5-ba1cad8f99c2-42627373
+          organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
           url: ''
         - certificate_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
           date_end: ''
           date_start: '2026-05-31'
           description: '2021-05-01'
-          icon: "custom/citi"
-          icon_pack: "custom"
+          icon: stamp
+          icon_pack: fab
           organization: CITI Program
-          organization_url: https://www.citiprogram.org/verify/?w3eb7beee-9698-4273-9a53-d183a12d89ab-42627283
+          organization_url: https://about.citiprogram.org/
           title: Research and HIPAA Privacy Protections
           url: ''
         - certificate_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
           date_end: ''
           date_start: '2021-01-01'
           description: ''
-          icon: "custom/wes_1"
-          icon_pack: "custom"
+          icon: wes
+          # icon_pack: "custom"
           organization: World Education Services
-          organization_url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
+          organization_url: https://www.wes.org/
           title: M.D. and M.S. U.S. equivalent
           url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
         - certificate_url: https://www.datacamp.com
