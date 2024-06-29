@@ -126,7 +126,7 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-01'
           description: ''
-          icon: "custom/citi"
+          icon: 'custom/citi.svg'
           icon_pack: custom
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
@@ -136,7 +136,7 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-31'
           description: ''
-          icon:  "custom/citi"
+          icon: "custom/citi"
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Research and HIPAA Privacy Protections
