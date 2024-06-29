@@ -127,7 +127,7 @@ sections:
           date_start: '2021-05-01'
           description: ''
           icon: 'custom/citi.svg'
-          icon_pack: custom
+          # icon_pack: custom
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
