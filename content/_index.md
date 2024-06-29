@@ -127,8 +127,7 @@ sections:
           date_start: '2021-05-01'
           description: ''
           icon: citi
-          # icon_pack: fas
-          organization: CITI Program
+          organization: CITI
           organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
           url: ''
