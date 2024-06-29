@@ -126,8 +126,8 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-01'
           description: ''
-          icon: citi
-          organization: CITI
+          icon: "custom/citi"
+          organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Biomedical Investigators
           url: ''
@@ -135,7 +135,7 @@ sections:
           date_end: '2026-05-31'
           date_start: '2021-05-31'
           description: ''
-          icon: stamp
+          icon:  "custom/citi"
           organization: CITI Program
           organization_url: https://about.citiprogram.org/
           title: Research and HIPAA Privacy Protections
@@ -145,29 +145,28 @@ sections:
           date_start: '2021-01-01'
           description: ''
           icon: "custom/wes_1"
-          icon_pack: custom
           organization: World Education Services
           organization_url: https://www.wes.org/
           title: M.D. and M.S. U.S. equivalent
-          url: https://www.youracclaim.com/badges/7ff6ae85-42c5-480c-a123-f0488f57e32e?source=linked_in_profile
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
           url: ''
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://docs.hugoblox.com/tutorial/blog/
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: coursera
+        #   organization: Coursera
+        #   organization_url: https://docs.hugoblox.com/tutorial/blog/
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   - block: collection
