@@ -1,37 +1,38 @@
 ---
-title: 'An example conference paper'
+title: 'Human brain correlates of strong anticipation in motor coordination between dyads'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Zhibin Zhou
+  - Javier Garcia
+  - Ramesh Srinivasan
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-11-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-Abstract']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+publication: In *Society of Neuroscience Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Interpersonal motor coordination happens all the time in our daily activities. As individuals interact with each other in coordinated movements two types of coordination dynamics of mutual adaptation have been observed in previous studies [Marmelat et al., 2012].  Weak anticipation is the result of local adjustments to motor behavior by one individual by perception of the other individual.  Weak anticipation often will give rise to leader-follower dynamics, where the leader sets a pace and the other individual continuously adapts to the variability of the other individual, correcting perceived errors. Strong anticipation reflects the ability of individuals to learn the long-range statistics of their environment in order to predict future events.  In the motor system, strong anticipation is grounded in the observation that repetitive rhythmic motor behaviors such as tapping exhibit long-range correlations or complexity.   An open question is whether complexity is an adaptive motor behavior, where individuals can match complexity to facilitate coordination.  The purpose of the present study is to examine whether motor coordination between dyads can reflect such strong anticipation. We investigated two finger tapping coordination tasks, synchronization and syncopation between dyads, by means of hyperscanning with simultaneous behavioral and EEG recordings.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Motor action exhibit long-range statistics reflected in measures of complexity  (Hurst exponents).  When two individuals coordinate their motor behavior they exhibit strong anticipation, by complexity matching, i.e, apparent adaptation of complexity in motor behavior. This matching is not apparent when one individual attempts to match the behavior of the other individual, such as leader-> follower coordination.   Strong anticipation is more prominent in syncopated than synchronized motor coordination, and is reflected in coordination of theta activity over the frontal lobes.  During syncopation, individuals synchronize their interval with no lag, but in synchronization, coordination always reflects a leader and follower, even in mutual coordination, suggesting a dominant role for weak anticipation.  
 
 tags: []
 
