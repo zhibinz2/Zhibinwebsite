@@ -1,8 +1,11 @@
 ---
-title: "Detecting the state of drowsiness induced by propofol by spatial filter and machine learning algorithm on EEG recording"
+title: "Cerebral ischemia during surgery: an overview"
 authors:
 - Zhibin Zhou
-- Ramesh Srinivasan
+- Lingzhong Meng
+- Adrian W Gelb
+- Roger Lee
+- Wen-Qi Huang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -18,13 +21,13 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["journal article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Journal of Biomedical Research, 2016 Mar; 30(2): 83–87."
+publication_short: "J Biomed Res."
 
-abstract: To accurately measure the depth of anesthesia has been a challenge for both anesthesiologists and engineers who work on developing tools of measurements. This study aims to use a machine-learning algorithm to predict the drowsy state, a transitional depth of sedation during propofol anesthesia. The data used in this study were scalp EEG (electroencephalogram) recordings selected from the University of Cambridge Repository. Raw EEG recordings were preprocessed into power spectrum matrices one second per sample. A total of 170 samples (110 awake samples and 60 drowsy samples) were used. A CNN (Convolutional Neural Network) for the MNIST (Modified National Institute of Standards and Technology) dataset was applied on these EEG power spectrum matrices. Due to the small dataset volume, Leave-One-Out cross-validation was used to train the data. Results of the training accuracy reached 99.69%. And test accuracy averaged 96.47%. Overall, the model is able to predict the state of drowsiness during propofol anesthesia. This provides the potential to develop EEG monitoring devices with closed-loop feedback of such a machine learning algorithm that controls the titration of the dosage of anesthetic administration and the depth of anesthesia.
+abstract: Cerebral ischemia is the pathophysiological condition in which the oxygenated cerebral blood flow is less than what is needed to meet cerebral metabolic demand. It is one of the most debilitating complications in the perioperative period and has serious clinical sequelae. The monitoring and prevention of intraoperative cerebral ischemia are crucial because an anesthetized patient in the operating room cannot be neurologically assessed. In this paper, we provide an overview of the definition, etiology, risk factors, and prevention of cerebral ischemia during surgery.
 
 # Summary. An optional shortened abstract.
-summary: A paradigm such as this can be applied in clinical EEG monitoring in real-time, guiding anesthesiologists and critical care physicians to determine the optimal dosage of anesthetic for small diagnostic and surgical procedures.
+summary: Cerebral ischemia is a hazardous pathophysiological condition during surgery and can lead to clinically debilitating consequences. Objective methods for monitoring and preventing cerebral ischemia during surgery are more meaningful because an anesthetized patient in the operating room cannot be neurologically evaluated. The risk factors relevant to perioperative cerebral ischemia should be recognized and risk reduction should be considered as early as possible before the planned surgery. A sound understanding of cerebrovascular physiology is fundamental to the prevention of intraoperative cerebral ischemia.
 
 tags:
 - Source Themes
@@ -33,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2021.07.12.452077v1.full.pdf
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4820884/
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
