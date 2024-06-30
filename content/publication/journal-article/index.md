@@ -1,30 +1,30 @@
 ---
-title: "An example journal article"
+title: "Detecting the state of drowsiness induced by propofol by spatial filter and machine learning algorithm on EEG recording"
 authors:
-- admin
-- Robert Ford
+- Zhibin Zhou
+- Ramesh Srinivasan
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-07-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["journal article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To accurately measure the depth of anesthesia has been a challenge for both anesthesiologists and engineers who work on developing tools of measurements. This study aims to use a machine-learning algorithm to predict the drowsy state, a transitional depth of sedation during propofol anesthesia. The data used in this study were scalp EEG (electroencephalogram) recordings selected from the University of Cambridge Repository. Raw EEG recordings were preprocessed into power spectrum matrices one second per sample. A total of 170 samples (110 awake samples and 60 drowsy samples) were used. A CNN (Convolutional Neural Network) for the MNIST (Modified National Institute of Standards and Technology) dataset was applied on these EEG power spectrum matrices. Due to the small dataset volume, Leave-One-Out cross-validation was used to train the data. Results of the training accuracy reached 99.69%. And test accuracy averaged 96.47%. Overall, the model is able to predict the state of drowsiness during propofol anesthesia. This provides the potential to develop EEG monitoring devices with closed-loop feedback of such a machine learning algorithm that controls the titration of the dosage of anesthetic administration and the depth of anesthesia.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A paradigm such as this can be applied in clinical EEG monitoring in real-time, guiding anesthesiologists and critical care physicians to determine the optimal dosage of anesthetic for small diagnostic and surgical procedures.
 
 tags:
 - Source Themes
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.biorxiv.org/content/10.1101/2021.07.12.452077v1.full.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
