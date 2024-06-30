@@ -27,7 +27,7 @@ publication_types: ['paper-Abstract']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Society of Neuroscience Conference*
-publication_short: In *ICW*
+publication_short: In *SfN*
 
 abstract: Interpersonal motor coordination happens all the time in our daily activities. As individuals interact with each other in coordinated movements two types of coordination dynamics of mutual adaptation have been observed in previous studies [Marmelat et al., 2012].  Weak anticipation is the result of local adjustments to motor behavior by one individual by perception of the other individual.  Weak anticipation often will give rise to leader-follower dynamics, where the leader sets a pace and the other individual continuously adapts to the variability of the other individual, correcting perceived errors. Strong anticipation reflects the ability of individuals to learn the long-range statistics of their environment in order to predict future events.  In the motor system, strong anticipation is grounded in the observation that repetitive rhythmic motor behaviors such as tapping exhibit long-range correlations or complexity.   An open question is whether complexity is an adaptive motor behavior, where individuals can match complexity to facilitate coordination.  The purpose of the present study is to examine whether motor coordination between dyads can reflect such strong anticipation. We investigated two finger tapping coordination tasks, synchronization and syncopation between dyads, by means of hyperscanning with simultaneous behavioral and EEG recordings.
 
