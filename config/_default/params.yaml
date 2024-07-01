@@ -70,14 +70,14 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zhibinz2/Zhibinwebsite'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: giscus
+    provider: disqus
     disqus:
       shortname: 'zhibin-disqus-com'
       show_count: true
