@@ -78,7 +78,6 @@ features:
     shape: circle
   comment:
     provider: 'gisqus'
-    commentable: true
     disqus:
       shortname: 'zhibinzhou'
       show_count: true
