@@ -281,7 +281,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: zhibinz2@uci.edu
       phone: 949-522-****
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/zhibinz2'
       address:
         street: SBSG 1501
         city: Irvine
@@ -300,15 +300,15 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/ZhibinZhou3'
         - icon: skype
           icon_pack: fab
           name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'skype:zhou.zhibin1986'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://uci.zoom.us/j/3909669422'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
