@@ -84,10 +84,10 @@ features:
     commento:
       url: 'https://mailto:zhibinz2@uci.edu'
     giscus:
-      repo: zhibinz2/Zhibinwebsite
-      repo_id: R_kgDOLt3Twg
+      repo: 'zhibinz2/Zhibinwebsite'
+      repo_id: 'R_kgDOLt3Twg'
       category: 'Q&A'
-      category_id: DIC_kwDOLt3Tws4Cgg6s
+      category_id: 'DIC_kwDOLt3Tws4Cgg6s'
   search:
     provider: wowchemy
     algolia:
