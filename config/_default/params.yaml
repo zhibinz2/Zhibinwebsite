@@ -79,7 +79,7 @@ features:
   comment:
     provider: 'commento'
     disqus:
-      shortname: ''
+      shortname: 'zhibinzhou'
       show_count: true
     commento:
       url: 'https://mailto:zhibinz2@uci.edu'
