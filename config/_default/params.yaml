@@ -79,7 +79,7 @@ features:
   comment:
     provider: giscus
     disqus:
-      shortname: 'zhibinzhou'
+      shortname: 'zhibin-disqus-com'
       show_count: true
     commento:
       url: 'https://mailto:zhibinz2@uci.edu'
