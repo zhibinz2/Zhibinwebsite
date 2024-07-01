@@ -88,6 +88,9 @@ features:
       repo_id: 'R_kgDOLt3Twg'
       category: 'Q&A'
       category_id: 'DIC_kwDOLt3Tws4Cgg6s'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
       # mapping: "pathname"
       # reactions_enabled: '1'
       # emit_metadata: "0"
