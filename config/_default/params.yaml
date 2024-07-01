@@ -88,14 +88,13 @@ features:
       repo_id: 'R_kgDOLt3Twg'
       category: 'Q&A'
       category_id: 'DIC_kwDOLt3Tws4Cgg6s'
-
       # mapping: "pathname"
       # reactions_enabled: '1'
       # emit_metadata: "0"
       # input_position: 'bottom'
       # lang: "en"
       # theme: "light"
-
+      #
       # data-repo="zhibinz2/Zhibinwebsite"
       # data-repo-id="R_kgDOLt3Twg"
       # data-category="Q&A"
