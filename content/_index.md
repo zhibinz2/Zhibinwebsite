@@ -280,7 +280,7 @@ sections:
         Leave a message here
       # Contact (add or remove contact options as necessary)
       email: zhibinz2@uci.edu
-      phone: 949-522-****
+      phone: 949-522-2878
       appointment_url: 'https://calendly.com/zhibinz2'
       address:
         street: SBSG 1501
