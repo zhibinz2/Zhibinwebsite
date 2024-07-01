@@ -77,17 +77,17 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: 'disqus'
+    provider: 'giscus'
     disqus:
       shortname: 'zhibinzhou'
       show_count: true
     commento:
       url: 'https://mailto:zhibinz2@uci.edu'
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'zhibinz2/Zhibinwebsite'
+      repo_id: 'R_kgDOLt3Twg'
+      category: 'Q&A'
+      category_id: 'DIC_kwDOLt3Tws4Cgg6s'
   search:
     provider: wowchemy
     algolia:
@@ -98,7 +98,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 20
+    zoom: 16
 
 # Extensions
 
