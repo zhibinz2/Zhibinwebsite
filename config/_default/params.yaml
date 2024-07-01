@@ -77,7 +77,7 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: commento
+    provider: "commento"
     disqus:
       shortname: 'zhibinzhou'
       show_count: true
