@@ -77,17 +77,29 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: giscus
+    provider: 'giscus'
     disqus:
       shortname: 'zhibinzhou'
       show_count: true
     commento:
       url: 'https://mailto:zhibinz2@uci.edu'
     giscus:
-      repo: zhibinz2/Zhibinwebsite
-      repo_id: R_kgDOLt3Twg
-      category: Q&A
-      category_id: DIC_kwDOLt3Tws4Cgg6s
+      repo: 'zhibinz2/Zhibinwebsite'
+      repo_id: 'R_kgDOLt3Twg'
+      category: 'Q&A'
+      category_id: 'DIC_kwDOLt3Tws4Cgg6s'
+      # data-repo="zhibinz2/Zhibinwebsite"
+      # data-repo-id="R_kgDOLt3Twg"
+      # data-category="Q&A"
+      # data-category-id="DIC_kwDOLt3Tws4Cgg6s"
+      # data-mapping="pathname"
+      # data-strict="0"
+      # data-reactions-enabled="1"
+      # data-emit-metadata="0"
+      # data-input-position="bottom"
+      # data-theme="preferred_color_scheme"
+      # data-lang="en"
+      # crossorigin="anonymous"
   search:
     provider: wowchemy
     algolia:
