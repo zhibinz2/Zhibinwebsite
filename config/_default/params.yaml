@@ -82,7 +82,7 @@ features:
       shortname: ''
       show_count: true
     commento:
-      url: ''
+      url: 'https://mailto:zhibinz2@uci.edu'
     giscus:
       repo: ''
       repo_id: ''
