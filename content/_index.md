@@ -275,10 +275,10 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Leave a message here
-      # Contact (add or remove contact options as necessary)
+      # subtitle:
+      # text: |-
+      #   Leave a message here
+      # # Contact (add or remove contact options as necessary) https://mailto:zhibinz2@uci.edu
       email: zhibinz2@uci.edu
       phone: 949-522-2878
       appointment_url: 'https://calendly.com/zhibinz2'
