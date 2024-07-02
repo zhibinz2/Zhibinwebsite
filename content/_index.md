@@ -313,7 +313,7 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: formspree
+        provider: netlify
         formspree:
           id: mkgwnjgd
         netlify:
