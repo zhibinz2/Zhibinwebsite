@@ -315,7 +315,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id:
+          id: https://formspree.io/f/mkgwnjgd
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
