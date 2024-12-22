@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD candidate in Cognitive Neuroscience
       institution: University of California, Irvine
-      year: expected to graduate in 12/2024
+      year: expected to graduate in 03/2025
     - course: MS in Cognitive Neuroscience
       institution: University of California, Irvine
       year: 2022
